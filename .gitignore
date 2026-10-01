@@ -1,0 +1,13 @@
+.venv/
+.venv-1/
+.venv-2/
+.venv-3/
+.vs/
+Results/
+Data/files.zip
+Data/amazon_india_project.zip
+Data/*.csv
+Data/amazon_india_project/README.md
+01_data_cleaning.ipynb
+Data/amazon_india_project/notebooks/.ipynb_checkpoints/
+!Data/amazon_india_project/notebooks/01_data_cleaning.ipynb

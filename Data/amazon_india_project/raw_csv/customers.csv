@@ -1,0 +1,321 @@
+customer_id,full_name,gender,email,mobile,city,state,pincode,prime_member,account_created,total_orders,lifetime_spend_inr,preferred_category,kyc_verified,gst_registered
+INCUST00001,Hitesh Lamba,M,hitesh.lamba889@outlook.com,+91 7883838371,Jaipur,Rajasthan,302001,Non-Prime,2022-01-10,49,28460.53,Mobile & Accessories,Yes,No
+INCUST00002,Meena Grover,F,meena.grover896@gmail.com,+91 8745040691,Rajkot,Gujarat,360001,Non-Prime,2022-02-22,35,29687.37,Mobile & Accessories,Yes,No
+INCUST00003,Kartik Naik,M,kartik.naik39@yahoo.co.in,+91 9954673466,Indore,Madhya Pradesh,452001,Non-Prime,2015-02-20,44,712.83,Sports & Fitness,Yes,No
+INCUST00004,Mihir Bajaj,M,mihir.bajaj285@gmail.com,+91 8492335542,Vadodara,Gujarat,390001,Prime,2023-07-24,68,17509.33,Electronics,Yes,No
+INCUST00005,Sneha Sharma,F,sneha.sharma320@gmail.com,+91 9261470513,Vadodara,Gujarat,390001,Non-Prime,2016-03-07,12,6021.63,Home & Kitchen,Yes,No
+INCUST00006,Geeta Mukherjee,F,geeta.mukherjee973@outlook.com,+91 8691295052,Ludhiana,Punjab,141001,Prime,2015-05-20,36,31363.82,Pet Supplies,Yes,No
+INCUST00007,Lalit Bansal,M,lalit.bansal77@gmail.com,+91 9824445130,Meerut,Uttar Pradesh,250001,Non-Prime,2019-10-08,42,22801.78,Sports & Fitness,Yes,No
+INCUST00008,Kavya Kumar,F,kavya.kumar594@yahoo.co.in,+91 8255159452,Kalyan,Maharashtra,421301,Non-Prime,2019-02-16,1,26461.22,Home & Kitchen,No,No
+INCUST00009,Hemant Bapat,M,hemant.bapat806@outlook.com,+91 7338591514,Ludhiana,Punjab,141001,Non-Prime,2022-06-11,25,35022.09,Office Products,Yes,No
+INCUST00010,Aisha Gupta,F,aisha.gupta633@yahoo.co.in,+91 9873564306,Thane,Maharashtra,400601,Non-Prime,2019-06-27,77,9460.55,Electronics,Yes,Yes
+INCUST00011,Ishita Dutta,F,ishita.dutta477@gmail.com,+91 7335483507,Nagpur,Maharashtra,440001,Prime,2018-08-04,79,21270.98,Clothing & Fashion,Yes,No
+INCUST00012,Rishabh Garg,M,rishabh.garg968@gmail.com,+91 7550823989,Kalyan,Maharashtra,421301,Prime,2019-11-03,63,37467.35,Electronics,Yes,No
+INCUST00013,Shubham Goswami,M,shubham.goswami148@outlook.com,+91 8449641658,Bengaluru,Karnataka,560001,Prime,2021-03-10,46,18564.04,Pet Supplies,No,No
+INCUST00014,Lalit Patel,M,lalit.patel250@yahoo.co.in,+91 9709839798,Hyderabad,Telangana,500001,Prime,2016-03-24,22,39108.61,Office Products,Yes,No
+INCUST00015,Rahul Naidu,M,rahul.naidu204@yahoo.co.in,+91 9342625103,Ahmedabad,Gujarat,380001,Prime,2021-07-01,26,23678.22,Pet Supplies,Yes,No
+INCUST00016,Shikha Mittal,F,shikha.mittal517@yahoo.co.in,+91 7989891804,Nagpur,Maharashtra,440001,Non-Prime,2020-03-26,11,31713.5,Beauty & Personal Care,Yes,No
+INCUST00017,Divya Saxena,F,divya.saxena349@rediffmail.com,+91 9299327294,Ahmedabad,Gujarat,380001,Non-Prime,2019-01-08,17,38695.78,Home & Kitchen,Yes,No
+INCUST00018,Atul Deshpande,M,atul.deshpande631@gmail.com,+91 8334388062,Thane,Maharashtra,400601,Non-Prime,2020-03-26,15,26784.92,Clothing & Fashion,Yes,No
+INCUST00019,Swati Mitra,F,swati.mitra648@rediffmail.com,+91 7768129902,Ludhiana,Punjab,141001,Prime,2016-03-03,69,22240.38,Beauty & Personal Care,Yes,Yes
+INCUST00020,Tanya Sawant,F,tanya.sawant917@yahoo.co.in,+91 9358382863,Lucknow,Uttar Pradesh,226001,Prime,2016-04-04,71,29468.23,Home & Kitchen,Yes,No
+INCUST00021,Urvashi Goyal,F,urvashi.goyal375@yahoo.co.in,+91 7749075812,Visakhapatnam,Andhra Pradesh,530001,Prime,2022-03-26,18,36418.95,Mobile & Accessories,Yes,No
+INCUST00022,Yash Basu,M,yash.basu265@rediffmail.com,+91 8198823640,Vadodara,Gujarat,390001,Prime,2017-01-12,56,21282.58,Pet Supplies,Yes,No
+INCUST00023,Swapnil Sarin,M,swapnil.sarin273@yahoo.co.in,+91 8446771669,Ahmedabad,Gujarat,380001,Non-Prime,2023-10-09,52,19860.0,Grocery & Gourmet,Yes,No
+INCUST00024,Ravi Thakur,M,ravi.thakur480@yahoo.co.in,+91 8603037307,Chennai,Tamil Nadu,600001,Non-Prime,2016-06-20,75,7933.57,Home & Kitchen,Yes,No
+INCUST00025,Sneha Malhotra,F,sneha.malhotra664@gmail.com,+91 9224174992,Mumbai,Maharashtra,400001,Non-Prime,2022-01-21,8,16167.53,Home & Kitchen,Yes,No
+INCUST00026,Akanksha Subramanian,F,akanksha.subramanian325@outlook.com,+91 7720317868,Ludhiana,Punjab,141001,Non-Prime,2017-05-09,3,34487.02,Books,Yes,No
+INCUST00027,Pranav Banerjee,M,pranav.banerjee320@yahoo.co.in,+91 7353392054,Faridabad,Haryana,121001,Non-Prime,2019-04-25,71,43863.56,Beauty & Personal Care,Yes,No
+INCUST00028,Tanya Jha,F,tanya.jha53@outlook.com,+91 9626908558,Surat,Gujarat,395001,Non-Prime,2016-04-02,58,20046.65,Beauty & Personal Care,Yes,No
+INCUST00029,Vrinda Basu,F,vrinda.basu884@outlook.com,+91 8616897994,Ghaziabad,Uttar Pradesh,201001,Prime,2020-04-30,45,30510.59,Sports & Fitness,No,No
+INCUST00030,Ishita Mittal,F,ishita.mittal11@yahoo.co.in,+91 7517884004,Pune,Maharashtra,411001,Non-Prime,2017-04-07,31,37980.89,Mobile & Accessories,Yes,Yes
+INCUST00031,Nidhi Narang,F,nidhi.narang814@rediffmail.com,+91 7592209824,Visakhapatnam,Andhra Pradesh,530001,Non-Prime,2017-08-26,15,13768.05,Grocery & Gourmet,Yes,No
+INCUST00032,Sanjay Goyal,M,sanjay.goyal694@gmail.com,+91 7358323732,Rajkot,Gujarat,360001,Prime,2023-09-19,77,20891.06,Grocery & Gourmet,Yes,No
+INCUST00033,Riya Yadav,F,riya.yadav154@gmail.com,+91 8993962441,Indore,Madhya Pradesh,452001,Non-Prime,2020-06-25,13,12926.58,Beauty & Personal Care,Yes,No
+INCUST00034,Ananya Tripathi,F,ananya.tripathi182@gmail.com,+91 7446375365,Nashik,Maharashtra,422001,Prime,2019-10-11,72,15601.01,Home & Kitchen,Yes,No
+INCUST00035,Riya Subramanian,F,riya.subramanian768@yahoo.co.in,+91 9841070215,Jaipur,Rajasthan,302001,Non-Prime,2015-02-12,32,7910.31,Mobile & Accessories,Yes,No
+INCUST00036,Saloni Goswami,F,saloni.goswami952@outlook.com,+91 9626183393,Nashik,Maharashtra,422001,Non-Prime,2017-11-29,79,25831.06,Electronics,Yes,Yes
+INCUST00037,Parth Rajput,M,parth.rajput215@outlook.com,+91 9186852720,Chennai,Tamil Nadu,600001,Prime,2018-01-07,21,23003.5,Books,Yes,No
+INCUST00038,Bharat Basu,M,bharat.basu441@yahoo.co.in,+91 7745799537,Kanpur,Uttar Pradesh,208001,Prime,2015-10-28,30,29217.88,Mobile & Accessories,No,No
+INCUST00039,Nitin Mehta,M,nitin.mehta363@rediffmail.com,+91 7191687416,Visakhapatnam,Andhra Pradesh,530001,Non-Prime,2017-07-16,64,40372.13,Electronics,Yes,No
+INCUST00040,Shreya Naidu,F,shreya.naidu947@outlook.com,+91 8730440124,Lucknow,Uttar Pradesh,226001,Prime,2020-03-17,34,21487.72,Books,Yes,Yes
+INCUST00041,Vijay Mitra,M,vijay.mitra418@yahoo.co.in,+91 9650402701,Vadodara,Gujarat,390001,Non-Prime,2015-12-08,46,17870.88,Sports & Fitness,Yes,No
+INCUST00042,Nandini Kulkarni,F,nandini.kulkarni943@yahoo.co.in,+91 9267378451,Kanpur,Uttar Pradesh,208001,Prime,2018-12-24,74,10124.68,Sports & Fitness,Yes,No
+INCUST00043,Ananya Dutta,F,ananya.dutta897@rediffmail.com,+91 8962070799,Lucknow,Uttar Pradesh,226001,Prime,2019-10-24,70,10884.46,Pet Supplies,Yes,No
+INCUST00044,Lokesh Tripathi,M,lokesh.tripathi439@rediffmail.com,+91 9732314378,Kalyan,Maharashtra,421301,Prime,2021-09-27,6,25686.65,Electronics,Yes,No
+INCUST00045,Varun Mishra,M,varun.mishra583@yahoo.co.in,+91 9309644015,Bhopal,Madhya Pradesh,462001,Non-Prime,2021-03-21,31,11444.46,Beauty & Personal Care,Yes,No
+INCUST00046,Kritika Kumar,F,kritika.kumar430@rediffmail.com,+91 8466841459,Nagpur,Maharashtra,440001,Non-Prime,2021-12-20,11,21985.65,Sports & Fitness,Yes,No
+INCUST00047,Bhavna Deshpande,F,bhavna.deshpande58@yahoo.co.in,+91 7587439845,Pune,Maharashtra,411001,Non-Prime,2021-08-21,7,29552.65,Books,Yes,Yes
+INCUST00048,Akash Subramanian,M,akash.subramanian826@outlook.com,+91 8521262145,Vasai,Maharashtra,401202,Prime,2018-08-11,41,19689.32,Office Products,Yes,No
+INCUST00049,Chandni Dubey,F,chandni.dubey92@outlook.com,+91 8414885823,Kanpur,Uttar Pradesh,208001,Prime,2020-10-18,39,42512.34,Mobile & Accessories,Yes,No
+INCUST00050,Mukesh Rastogi,M,mukesh.rastogi565@outlook.com,+91 8263204248,Pune,Maharashtra,411001,Prime,2015-05-04,75,38538.11,Clothing & Fashion,Yes,No
+INCUST00051,Geeta Lamba,F,geeta.lamba761@yahoo.co.in,+91 8683811459,Rajkot,Gujarat,360001,Prime,2021-06-02,57,9781.32,Pet Supplies,Yes,No
+INCUST00052,Saurabh Arora,M,saurabh.arora911@rediffmail.com,+91 8714145161,Bengaluru,Karnataka,560001,Prime,2021-02-07,77,24038.93,Mobile & Accessories,Yes,No
+INCUST00053,Arpita Basu,F,arpita.basu804@rediffmail.com,+91 9937474908,Kanpur,Uttar Pradesh,208001,Non-Prime,2018-04-05,54,37892.16,Pet Supplies,Yes,No
+INCUST00054,Dinesh Ghosh,M,dinesh.ghosh16@outlook.com,+91 9303917345,Indore,Madhya Pradesh,452001,Prime,2019-01-08,44,28716.77,Pet Supplies,Yes,No
+INCUST00055,Manish Mishra,M,manish.mishra717@yahoo.co.in,+91 8614241303,Surat,Gujarat,395001,Non-Prime,2020-02-22,47,5020.83,Books,Yes,No
+INCUST00056,Akash Sarin,M,akash.sarin420@gmail.com,+91 7356332663,Lucknow,Uttar Pradesh,226001,Prime,2015-07-05,2,8735.09,Office Products,No,Yes
+INCUST00057,Naveen Bansal,M,naveen.bansal967@rediffmail.com,+91 9119788239,Mumbai,Maharashtra,400001,Non-Prime,2015-08-28,8,44845.9,Grocery & Gourmet,Yes,No
+INCUST00058,Swapnil Malhotra,M,swapnil.malhotra747@gmail.com,+91 8389470483,Bengaluru,Karnataka,560001,Non-Prime,2015-05-08,39,38307.69,Sports & Fitness,Yes,No
+INCUST00059,Ananya Kaur,F,ananya.kaur528@gmail.com,+91 9330536799,Vadodara,Gujarat,390001,Prime,2016-11-12,27,5496.23,Pet Supplies,Yes,No
+INCUST00060,Komal Chowdhury,F,komal.chowdhury324@gmail.com,+91 7248737458,Nagpur,Maharashtra,440001,Non-Prime,2020-12-12,56,44592.91,Clothing & Fashion,Yes,No
+INCUST00061,Aditya Menon,M,aditya.menon123@outlook.com,+91 9415101693,Jaipur,Rajasthan,302001,Prime,2018-09-23,74,6691.38,Beauty & Personal Care,No,No
+INCUST00062,Tanya Verma,F,tanya.verma276@outlook.com,+91 8628534657,Faridabad,Haryana,121001,Prime,2020-06-11,14,34193.61,Pet Supplies,Yes,No
+INCUST00063,Seema Agarwal,F,seema.agarwal649@rediffmail.com,+91 7339607190,Vasai,Maharashtra,401202,Non-Prime,2015-08-17,54,18636.19,Pet Supplies,Yes,No
+INCUST00064,Piyush Chowdhury,M,piyush.chowdhury374@yahoo.co.in,+91 9204404564,Hyderabad,Telangana,500001,Prime,2019-05-22,8,5250.74,Sports & Fitness,Yes,Yes
+INCUST00065,Raj Garg,M,raj.garg221@gmail.com,+91 9160860179,Nashik,Maharashtra,422001,Prime,2023-10-08,11,41162.56,Home & Kitchen,Yes,No
+INCUST00066,Minal Das,F,minal.das884@rediffmail.com,+91 7120994401,Chennai,Tamil Nadu,600001,Non-Prime,2016-12-18,7,9924.08,Electronics,Yes,No
+INCUST00067,Tarun Kaur,M,tarun.kaur986@outlook.com,+91 8104851451,Vadodara,Gujarat,390001,Non-Prime,2022-10-18,49,31854.91,Sports & Fitness,Yes,Yes
+INCUST00068,Vidya Tiwari,F,vidya.tiwari973@rediffmail.com,+91 9439367223,Faridabad,Haryana,121001,Prime,2017-12-25,45,37319.76,Office Products,Yes,No
+INCUST00069,Arnav Saxena,M,arnav.saxena837@rediffmail.com,+91 8600069753,Visakhapatnam,Andhra Pradesh,530001,Prime,2017-05-24,14,25657.89,Beauty & Personal Care,Yes,No
+INCUST00070,Ronak Agarwal,M,ronak.agarwal425@yahoo.co.in,+91 9757264050,Ahmedabad,Gujarat,380001,Non-Prime,2019-05-09,6,22081.93,Books,Yes,No
+INCUST00071,Payal Pandey,F,payal.pandey741@gmail.com,+91 8253140510,Mumbai,Maharashtra,400001,Non-Prime,2017-11-21,16,36166.89,Electronics,Yes,No
+INCUST00072,Tarun Kulkarni,M,tarun.kulkarni963@outlook.com,+91 8566175749,Nashik,Maharashtra,422001,Non-Prime,2022-05-09,16,26117.97,Office Products,No,No
+INCUST00073,Vijay Sawant,M,vijay.sawant242@yahoo.co.in,+91 8172636959,Vadodara,Gujarat,390001,Prime,2016-05-19,36,25935.66,Clothing & Fashion,Yes,No
+INCUST00074,Shubham Mehta,M,shubham.mehta275@rediffmail.com,+91 8594786554,Ludhiana,Punjab,141001,Prime,2021-09-24,68,30987.22,Beauty & Personal Care,Yes,No
+INCUST00075,Varsha Ghosh,F,varsha.ghosh215@outlook.com,+91 9156385706,Ahmedabad,Gujarat,380001,Non-Prime,2021-05-11,79,13919.64,Sports & Fitness,Yes,No
+INCUST00076,Rohit Mishra,M,rohit.mishra552@rediffmail.com,+91 8674938244,Surat,Gujarat,395001,Non-Prime,2021-04-30,18,22173.29,Clothing & Fashion,Yes,No
+INCUST00077,Mahesh Narang,M,mahesh.narang292@yahoo.co.in,+91 8304184200,Kolkata,West Bengal,700001,Prime,2022-11-10,77,35582.97,Books,No,No
+INCUST00078,Vrinda Saxena,F,vrinda.saxena51@yahoo.co.in,+91 9780862209,Agra,Uttar Pradesh,282001,Prime,2020-05-10,53,3359.93,Clothing & Fashion,Yes,No
+INCUST00079,Suresh Thakur,M,suresh.thakur913@yahoo.co.in,+91 9657044971,Varanasi,Uttar Pradesh,221001,Prime,2020-12-23,34,19282.63,Mobile & Accessories,Yes,No
+INCUST00080,Pranav Malhotra,M,pranav.malhotra116@gmail.com,+91 7767796860,Visakhapatnam,Andhra Pradesh,530001,Non-Prime,2022-08-03,1,41572.84,Home & Kitchen,Yes,No
+INCUST00081,Arpita Rastogi,F,arpita.rastogi715@yahoo.co.in,+91 9970014168,Bhopal,Madhya Pradesh,462001,Non-Prime,2016-11-09,75,25182.1,Sports & Fitness,Yes,No
+INCUST00082,Sandhya Joshi,F,sandhya.joshi10@yahoo.co.in,+91 8687707476,Agra,Uttar Pradesh,282001,Non-Prime,2023-03-18,75,917.11,Beauty & Personal Care,Yes,No
+INCUST00083,Lalit Kapoor,M,lalit.kapoor287@outlook.com,+91 7912090989,Rajkot,Gujarat,360001,Prime,2022-10-01,53,29995.38,Beauty & Personal Care,Yes,Yes
+INCUST00084,Meena Patil,F,meena.patil632@yahoo.co.in,+91 8495169312,Pune,Maharashtra,411001,Prime,2023-03-30,38,8242.49,Office Products,Yes,No
+INCUST00085,Pankaj Joshi,M,pankaj.joshi953@yahoo.co.in,+91 9334161725,Visakhapatnam,Andhra Pradesh,530001,Prime,2015-09-26,3,30314.56,Office Products,Yes,No
+INCUST00086,Simran Kapoor,F,simran.kapoor103@rediffmail.com,+91 7646081017,Bengaluru,Karnataka,560001,Prime,2018-01-13,65,18001.77,Home & Kitchen,Yes,No
+INCUST00087,Geeta Pathak,F,geeta.pathak764@rediffmail.com,+91 8293859242,Rajkot,Gujarat,360001,Prime,2023-02-01,48,37257.51,Books,No,No
+INCUST00088,Nidhi Menon,F,nidhi.menon172@gmail.com,+91 8965468792,Pune,Maharashtra,411001,Non-Prime,2022-11-20,28,31227.08,Electronics,Yes,No
+INCUST00089,Rekha Nair,F,rekha.nair608@rediffmail.com,+91 7211960332,Ahmedabad,Gujarat,380001,Prime,2015-12-28,60,2882.11,Mobile & Accessories,Yes,No
+INCUST00090,Neha Rajput,F,neha.rajput820@outlook.com,+91 7687034875,Ahmedabad,Gujarat,380001,Non-Prime,2017-04-27,20,1085.58,Office Products,No,No
+INCUST00091,Vivek Pandey,M,vivek.pandey922@gmail.com,+91 9476747054,Ghaziabad,Uttar Pradesh,201001,Prime,2022-02-24,37,34672.2,Sports & Fitness,No,No
+INCUST00092,Parth Naik,M,parth.naik221@yahoo.co.in,+91 8714735684,Hyderabad,Telangana,500001,Prime,2018-11-18,66,36134.08,Books,Yes,No
+INCUST00093,Monika Chandra,F,monika.chandra798@yahoo.co.in,+91 7921086523,Bhopal,Madhya Pradesh,462001,Prime,2017-04-20,15,43446.12,Electronics,Yes,No
+INCUST00094,Sachin Verma,M,sachin.verma664@rediffmail.com,+91 8451752683,Agra,Uttar Pradesh,282001,Prime,2022-04-08,19,33205.0,Beauty & Personal Care,Yes,Yes
+INCUST00095,Nandini Saxena,F,nandini.saxena71@rediffmail.com,+91 7757137941,Ludhiana,Punjab,141001,Prime,2018-02-04,76,1067.52,Grocery & Gourmet,Yes,No
+INCUST00096,Neeraj Varma,M,neeraj.varma715@gmail.com,+91 7195142875,Mumbai,Maharashtra,400001,Prime,2015-06-15,33,5637.73,Books,Yes,No
+INCUST00097,Aisha Narang,F,aisha.narang115@yahoo.co.in,+91 9442120153,Kalyan,Maharashtra,421301,Non-Prime,2020-11-17,69,4856.28,Books,Yes,No
+INCUST00098,Dinesh Subramanian,M,dinesh.subramanian828@yahoo.co.in,+91 7845589587,Thane,Maharashtra,400601,Non-Prime,2015-09-04,39,34875.81,Grocery & Gourmet,Yes,No
+INCUST00099,Rajesh Sen,M,rajesh.sen40@outlook.com,+91 9426031186,Agra,Uttar Pradesh,282001,Prime,2018-08-07,21,40079.49,Mobile & Accessories,Yes,No
+INCUST00100,Ankit Mehta,M,ankit.mehta591@yahoo.co.in,+91 9333021868,Indore,Madhya Pradesh,452001,Non-Prime,2022-12-19,73,36114.24,Mobile & Accessories,Yes,No
+INCUST00101,Minal Bose,F,minal.bose490@yahoo.co.in,+91 7960480756,Bhopal,Madhya Pradesh,462001,Non-Prime,2023-12-24,15,16278.17,Home & Kitchen,Yes,No
+INCUST00102,Hemant Desai,M,hemant.desai494@yahoo.co.in,+91 9278027737,Varanasi,Uttar Pradesh,221001,Non-Prime,2022-04-19,61,19253.82,Pet Supplies,Yes,No
+INCUST00103,Rashmi Singh,F,rashmi.singh150@gmail.com,+91 7633734966,Varanasi,Uttar Pradesh,221001,Prime,2019-09-03,17,37500.26,Electronics,Yes,Yes
+INCUST00104,Neeraj Patel,M,neeraj.patel645@gmail.com,+91 8229584981,Mumbai,Maharashtra,400001,Non-Prime,2017-07-12,14,19090.29,Books,Yes,No
+INCUST00105,Ramesh Sawant,M,ramesh.sawant371@yahoo.co.in,+91 9211942634,Patna,Bihar,800001,Non-Prime,2015-01-21,80,35610.07,Sports & Fitness,Yes,No
+INCUST00106,Meenakshi Pillai,F,meenakshi.pillai407@outlook.com,+91 7140840930,Rajkot,Gujarat,360001,Prime,2022-02-03,57,40803.23,Mobile & Accessories,Yes,No
+INCUST00107,Tanvi Bajaj,F,tanvi.bajaj441@gmail.com,+91 9298571530,Faridabad,Haryana,121001,Prime,2022-01-15,2,35192.2,Mobile & Accessories,Yes,Yes
+INCUST00108,Uday Nair,M,uday.nair37@yahoo.co.in,+91 7380755324,Rajkot,Gujarat,360001,Prime,2018-08-01,59,12632.99,Pet Supplies,Yes,No
+INCUST00109,Aditi Iyer,F,aditi.iyer715@outlook.com,+91 9451933194,Ahmedabad,Gujarat,380001,Prime,2019-05-16,50,18062.59,Sports & Fitness,Yes,No
+INCUST00110,Tanvi Patil,F,tanvi.patil918@gmail.com,+91 7830548460,Nagpur,Maharashtra,440001,Non-Prime,2020-01-09,46,38358.8,Home & Kitchen,Yes,No
+INCUST00111,Lalit Dutta,M,lalit.dutta408@yahoo.co.in,+91 8660992861,Varanasi,Uttar Pradesh,221001,Non-Prime,2016-11-24,42,44373.56,Mobile & Accessories,No,Yes
+INCUST00112,Minal Dutta,F,minal.dutta190@yahoo.co.in,+91 9200015727,Kalyan,Maharashtra,421301,Non-Prime,2023-11-07,68,42842.24,Clothing & Fashion,Yes,No
+INCUST00113,Sachin Gupta,M,sachin.gupta329@yahoo.co.in,+91 9350922359,Bhopal,Madhya Pradesh,462001,Non-Prime,2021-10-18,16,23089.62,Grocery & Gourmet,Yes,No
+INCUST00114,Sapna Pandey,F,sapna.pandey701@rediffmail.com,+91 7166323830,Hyderabad,Telangana,500001,Prime,2022-12-23,11,1560.25,Beauty & Personal Care,Yes,No
+INCUST00115,Vaibhav Dixit,M,vaibhav.dixit625@outlook.com,+91 8289306084,Lucknow,Uttar Pradesh,226001,Non-Prime,2023-01-19,49,29066.61,Electronics,Yes,No
+INCUST00116,Nitin Bapat,M,nitin.bapat254@yahoo.co.in,+91 8561622622,Patna,Bihar,800001,Non-Prime,2017-05-19,69,12283.84,Pet Supplies,Yes,No
+INCUST00117,Chandni Mukherjee,F,chandni.mukherjee513@yahoo.co.in,+91 8170683394,Vadodara,Gujarat,390001,Non-Prime,2020-12-31,76,38668.03,Pet Supplies,Yes,No
+INCUST00118,Kavya Menon,F,kavya.menon224@outlook.com,+91 7152244519,Kalyan,Maharashtra,421301,Non-Prime,2021-12-31,33,12240.56,Pet Supplies,No,No
+INCUST00119,Megha Chakraborty,F,megha.chakraborty717@rediffmail.com,+91 7213769847,Nagpur,Maharashtra,440001,Non-Prime,2022-04-18,36,37691.14,Home & Kitchen,Yes,No
+INCUST00120,Lokesh Bajaj,M,lokesh.bajaj938@outlook.com,+91 9350499868,Ghaziabad,Uttar Pradesh,201001,Prime,2019-01-05,2,20030.33,Beauty & Personal Care,Yes,No
+INCUST00121,Suresh Dubey,M,suresh.dubey676@yahoo.co.in,+91 9869923730,Jaipur,Rajasthan,302001,Non-Prime,2023-12-31,64,30124.98,Beauty & Personal Care,Yes,No
+INCUST00122,Siddarth Bhatt,M,siddarth.bhatt202@yahoo.co.in,+91 9544644064,Thane,Maharashtra,400601,Prime,2022-01-30,20,44883.09,Office Products,Yes,No
+INCUST00123,Lalit Sharma,M,lalit.sharma863@gmail.com,+91 8380296280,Ludhiana,Punjab,141001,Non-Prime,2015-10-02,11,29656.72,Grocery & Gourmet,Yes,No
+INCUST00124,Nandini Sharma,F,nandini.sharma216@outlook.com,+91 9445012754,Jaipur,Rajasthan,302001,Non-Prime,2020-02-08,28,42785.89,Pet Supplies,Yes,No
+INCUST00125,Priyanka Chakraborty,F,priyanka.chakraborty454@yahoo.co.in,+91 8477679297,Thane,Maharashtra,400601,Non-Prime,2016-05-05,44,16145.44,Home & Kitchen,No,No
+INCUST00126,Swati Subramanian,F,swati.subramanian76@rediffmail.com,+91 7658301513,Vadodara,Gujarat,390001,Prime,2016-01-22,76,26015.69,Grocery & Gourmet,No,No
+INCUST00127,Hemant Mehta,M,hemant.mehta16@rediffmail.com,+91 7209190750,Nashik,Maharashtra,422001,Non-Prime,2019-12-03,18,11343.22,Electronics,Yes,No
+INCUST00128,Kavita Mitra,F,kavita.mitra426@gmail.com,+91 9479988064,Kanpur,Uttar Pradesh,208001,Prime,2022-03-21,78,15951.98,Sports & Fitness,Yes,No
+INCUST00129,Aditi Guha,F,aditi.guha433@rediffmail.com,+91 8673349556,Ahmedabad,Gujarat,380001,Prime,2018-12-26,62,18466.2,Pet Supplies,Yes,No
+INCUST00130,Vikas Mahajan,M,vikas.mahajan296@gmail.com,+91 7262630846,Lucknow,Uttar Pradesh,226001,Prime,2021-06-16,28,12000.33,Pet Supplies,Yes,No
+INCUST00131,Chandni Bhatnagar,F,chandni.bhatnagar728@yahoo.co.in,+91 7285779653,Rajkot,Gujarat,360001,Prime,2015-07-25,45,26556.98,Grocery & Gourmet,No,No
+INCUST00132,Yogesh Jain,M,yogesh.jain135@yahoo.co.in,+91 8322499703,Lucknow,Uttar Pradesh,226001,Non-Prime,2018-03-02,78,38198.71,Sports & Fitness,Yes,No
+INCUST00133,Nikhil Naik,M,nikhil.naik632@rediffmail.com,+91 7683951483,Pune,Maharashtra,411001,Prime,2016-11-20,39,17995.59,Electronics,Yes,No
+INCUST00134,Mahesh Joshi,M,mahesh.joshi738@rediffmail.com,+91 7314047724,Chennai,Tamil Nadu,600001,Non-Prime,2018-03-18,58,18984.74,Electronics,Yes,No
+INCUST00135,Bhavna Pathak,F,bhavna.pathak827@outlook.com,+91 7519445739,Indore,Madhya Pradesh,452001,Non-Prime,2019-04-08,39,17797.48,Beauty & Personal Care,Yes,No
+INCUST00136,Parul Pillai,F,parul.pillai362@yahoo.co.in,+91 7145425647,Ludhiana,Punjab,141001,Prime,2021-11-18,65,3344.91,Mobile & Accessories,Yes,No
+INCUST00137,Ankita Dubey,F,ankita.dubey599@rediffmail.com,+91 7758500286,Ahmedabad,Gujarat,380001,Prime,2021-05-02,10,5061.78,Beauty & Personal Care,Yes,No
+INCUST00138,Dhruv Sharma,M,dhruv.sharma379@yahoo.co.in,+91 9577609652,Kalyan,Maharashtra,421301,Prime,2020-02-08,51,1130.87,Grocery & Gourmet,Yes,No
+INCUST00139,Zara Desai,F,zara.desai873@gmail.com,+91 9632851984,Lucknow,Uttar Pradesh,226001,Non-Prime,2018-02-20,20,40481.72,Office Products,Yes,No
+INCUST00140,Mohit Bajaj,M,mohit.bajaj667@gmail.com,+91 9900783824,Ahmedabad,Gujarat,380001,Non-Prime,2017-05-21,45,31505.96,Books,Yes,No
+INCUST00141,Nidhi Kaur,F,nidhi.kaur483@rediffmail.com,+91 9933595839,Lucknow,Uttar Pradesh,226001,Prime,2015-10-01,40,8233.22,Beauty & Personal Care,Yes,No
+INCUST00142,Ritu Kumar,F,ritu.kumar442@yahoo.co.in,+91 8290982162,Nagpur,Maharashtra,440001,Non-Prime,2023-02-02,4,20506.47,Electronics,Yes,No
+INCUST00143,Aparna Kumar,F,aparna.kumar3@yahoo.co.in,+91 7103568590,Visakhapatnam,Andhra Pradesh,530001,Prime,2019-12-05,45,39988.83,Office Products,Yes,No
+INCUST00144,Ritu Ghosh,F,ritu.ghosh811@yahoo.co.in,+91 7102951158,Agra,Uttar Pradesh,282001,Prime,2023-06-07,58,33196.37,Electronics,Yes,No
+INCUST00145,Mukesh Ghosh,M,mukesh.ghosh663@yahoo.co.in,+91 8711116795,Jaipur,Rajasthan,302001,Prime,2023-04-17,37,5846.92,Books,No,Yes
+INCUST00146,Monika Tripathi,F,monika.tripathi49@gmail.com,+91 7680371941,Visakhapatnam,Andhra Pradesh,530001,Non-Prime,2021-08-29,80,23643.71,Clothing & Fashion,Yes,No
+INCUST00147,Gauri Patel,F,gauri.patel701@outlook.com,+91 8797491950,Surat,Gujarat,395001,Non-Prime,2021-12-23,1,28125.9,Clothing & Fashion,Yes,No
+INCUST00148,Kirti Jain,F,kirti.jain349@rediffmail.com,+91 9901250837,Visakhapatnam,Andhra Pradesh,530001,Non-Prime,2016-06-28,5,26130.79,Books,Yes,No
+INCUST00149,Priyanka Dubey,F,priyanka.dubey506@yahoo.co.in,+91 8527825889,Thane,Maharashtra,400601,Prime,2017-08-11,33,15665.69,Clothing & Fashion,No,Yes
+INCUST00150,Pallavi Narang,F,pallavi.narang391@rediffmail.com,+91 7790037077,Pimpri,Maharashtra,411017,Non-Prime,2016-04-07,6,34253.56,Beauty & Personal Care,Yes,No
+INCUST00151,Kartik Bajaj,M,kartik.bajaj520@yahoo.co.in,+91 8242874762,Chennai,Tamil Nadu,600001,Prime,2018-01-11,50,41094.87,Pet Supplies,No,Yes
+INCUST00152,Yash Dubey,M,yash.dubey589@gmail.com,+91 7246798800,Indore,Madhya Pradesh,452001,Non-Prime,2017-05-04,66,3930.08,Books,Yes,Yes
+INCUST00153,Ankit Thakur,M,ankit.thakur105@yahoo.co.in,+91 9217236218,Surat,Gujarat,395001,Prime,2016-10-07,6,20823.92,Sports & Fitness,Yes,No
+INCUST00154,Deepak Gupta,M,deepak.gupta469@gmail.com,+91 9896493780,Chennai,Tamil Nadu,600001,Prime,2022-10-28,28,1330.33,Home & Kitchen,Yes,No
+INCUST00155,Nandini Mitra,F,nandini.mitra828@outlook.com,+91 7614521763,Vadodara,Gujarat,390001,Non-Prime,2019-06-01,20,13195.49,Mobile & Accessories,Yes,No
+INCUST00156,Arjun Pandey,M,arjun.pandey454@gmail.com,+91 9588719509,Bengaluru,Karnataka,560001,Non-Prime,2021-01-21,12,33792.81,Grocery & Gourmet,Yes,Yes
+INCUST00157,Ramesh Rastogi,M,ramesh.rastogi182@outlook.com,+91 8428659136,Patna,Bihar,800001,Non-Prime,2022-08-09,19,33232.78,Electronics,Yes,No
+INCUST00158,Atul Mitra,M,atul.mitra263@gmail.com,+91 9249710684,Thane,Maharashtra,400601,Prime,2017-02-01,37,8713.1,Home & Kitchen,Yes,No
+INCUST00159,Mohit Narang,M,mohit.narang109@outlook.com,+91 7716134996,Bengaluru,Karnataka,560001,Prime,2017-03-20,70,18531.35,Grocery & Gourmet,Yes,Yes
+INCUST00160,Raj Kaushik,M,raj.kaushik248@yahoo.co.in,+91 9542368078,Nashik,Maharashtra,422001,Prime,2016-09-23,68,29182.49,Pet Supplies,Yes,No
+INCUST00161,Mayank Kaur,M,mayank.kaur937@outlook.com,+91 9848853238,Nashik,Maharashtra,422001,Non-Prime,2019-03-13,37,4373.31,Clothing & Fashion,Yes,No
+INCUST00162,Parul Sharma,F,parul.sharma593@yahoo.co.in,+91 9158984420,Vasai,Maharashtra,401202,Prime,2022-10-31,61,19317.85,Clothing & Fashion,Yes,Yes
+INCUST00163,Tanya Banerjee,F,tanya.banerjee67@gmail.com,+91 9334878498,Agra,Uttar Pradesh,282001,Non-Prime,2021-12-24,61,40864.14,Books,Yes,No
+INCUST00164,Akash Nair,M,akash.nair240@outlook.com,+91 7484291349,Delhi,Delhi,110001,Non-Prime,2023-11-29,49,3978.43,Clothing & Fashion,Yes,No
+INCUST00165,Aparna Pandey,F,aparna.pandey221@gmail.com,+91 8547318541,Agra,Uttar Pradesh,282001,Non-Prime,2022-02-14,74,13607.1,Electronics,Yes,No
+INCUST00166,Sachin Tiwari,M,sachin.tiwari83@rediffmail.com,+91 9820088783,Indore,Madhya Pradesh,452001,Non-Prime,2023-03-14,53,36690.99,Sports & Fitness,Yes,No
+INCUST00167,Disha Grover,F,disha.grover849@gmail.com,+91 9220955910,Ahmedabad,Gujarat,380001,Prime,2018-06-30,48,44027.73,Sports & Fitness,Yes,No
+INCUST00168,Vikram Rao,M,vikram.rao505@yahoo.co.in,+91 7592278916,Pimpri,Maharashtra,411017,Non-Prime,2016-09-06,73,43954.76,Beauty & Personal Care,Yes,No
+INCUST00169,Nitin Bansal,M,nitin.bansal152@rediffmail.com,+91 9942294404,Chennai,Tamil Nadu,600001,Prime,2023-12-20,4,22610.43,Mobile & Accessories,Yes,No
+INCUST00170,Payal Ghosh,F,payal.ghosh353@rediffmail.com,+91 9185064780,Nagpur,Maharashtra,440001,Prime,2022-09-28,19,5088.75,Home & Kitchen,Yes,No
+INCUST00171,Mahesh Srivastava,M,mahesh.srivastava970@yahoo.co.in,+91 9968031483,Varanasi,Uttar Pradesh,221001,Prime,2021-03-01,78,32453.82,Electronics,Yes,No
+INCUST00172,Bhavna Gupta,F,bhavna.gupta708@yahoo.co.in,+91 8133034297,Faridabad,Haryana,121001,Non-Prime,2018-04-23,37,11649.89,Electronics,Yes,No
+INCUST00173,Megha Jain,F,megha.jain389@outlook.com,+91 8661205933,Hyderabad,Telangana,500001,Prime,2018-06-01,56,18871.33,Pet Supplies,Yes,Yes
+INCUST00174,Shikha Mishra,F,shikha.mishra112@gmail.com,+91 7672361165,Vadodara,Gujarat,390001,Non-Prime,2022-06-04,49,20322.3,Pet Supplies,Yes,No
+INCUST00175,Shivam Pandey,M,shivam.pandey248@yahoo.co.in,+91 7551166086,Bengaluru,Karnataka,560001,Non-Prime,2015-06-15,61,37780.38,Electronics,Yes,No
+INCUST00176,Yamini Reddy,F,yamini.reddy179@gmail.com,+91 8980997146,Lucknow,Uttar Pradesh,226001,Non-Prime,2015-08-31,75,32705.05,Home & Kitchen,Yes,No
+INCUST00177,Gauri Sinha,F,gauri.sinha588@outlook.com,+91 8474467025,Delhi,Delhi,110001,Non-Prime,2022-05-27,62,29731.03,Office Products,Yes,No
+INCUST00178,Geeta Agarwal,F,geeta.agarwal359@yahoo.co.in,+91 9416409044,Ghaziabad,Uttar Pradesh,201001,Prime,2016-02-23,62,505.28,Sports & Fitness,No,No
+INCUST00179,Sapna Jain,F,sapna.jain801@outlook.com,+91 9299164559,Vadodara,Gujarat,390001,Non-Prime,2016-05-07,72,30805.45,Electronics,Yes,Yes
+INCUST00180,Chirag Narang,M,chirag.narang624@rediffmail.com,+91 8944787551,Ghaziabad,Uttar Pradesh,201001,Prime,2019-10-25,17,6618.59,Home & Kitchen,Yes,No
+INCUST00181,Saurabh Kumar,M,saurabh.kumar236@rediffmail.com,+91 7640916466,Pune,Maharashtra,411001,Non-Prime,2021-07-26,10,31576.65,Grocery & Gourmet,Yes,No
+INCUST00182,Mahesh Agarwal,M,mahesh.agarwal637@rediffmail.com,+91 8459495982,Surat,Gujarat,395001,Non-Prime,2018-05-15,6,33755.13,Beauty & Personal Care,Yes,Yes
+INCUST00183,Kavya Thakur,F,kavya.thakur900@outlook.com,+91 9246420134,Thane,Maharashtra,400601,Prime,2017-05-01,20,5426.69,Beauty & Personal Care,No,No
+INCUST00184,Saloni Nair,F,saloni.nair334@gmail.com,+91 7172689724,Pune,Maharashtra,411001,Prime,2016-11-07,35,34447.45,Office Products,Yes,No
+INCUST00185,Ekta Basu,F,ekta.basu53@yahoo.co.in,+91 8498707830,Nagpur,Maharashtra,440001,Non-Prime,2022-03-15,55,42045.92,Office Products,Yes,No
+INCUST00186,Parul Naidu,F,parul.naidu51@gmail.com,+91 7270952308,Pimpri,Maharashtra,411017,Prime,2021-11-02,24,29445.43,Mobile & Accessories,Yes,Yes
+INCUST00187,Abhishek Chakraborty,M,abhishek.chakraborty915@gmail.com,+91 9816085777,Ludhiana,Punjab,141001,Prime,2015-06-01,73,18701.89,Sports & Fitness,No,No
+INCUST00188,Rakesh More,M,rakesh.more924@gmail.com,+91 7610543295,Bengaluru,Karnataka,560001,Non-Prime,2017-01-15,76,29929.39,Books,No,No
+INCUST00189,Rohit Patil,M,rohit.patil90@rediffmail.com,+91 9673818723,Hyderabad,Telangana,500001,Non-Prime,2023-04-17,80,25343.59,Mobile & Accessories,Yes,No
+INCUST00190,Meera Nair,F,meera.nair211@yahoo.co.in,+91 8786091916,Bengaluru,Karnataka,560001,Non-Prime,2017-05-02,1,20540.13,Beauty & Personal Care,Yes,No
+INCUST00191,Ishan Gaikwad,M,ishan.gaikwad386@rediffmail.com,+91 9886944123,Lucknow,Uttar Pradesh,226001,Prime,2020-07-20,33,39706.07,Electronics,Yes,No
+INCUST00192,Deepak Chatterjee,M,deepak.chatterjee947@yahoo.co.in,+91 7200217313,Bhopal,Madhya Pradesh,462001,Prime,2015-03-17,68,2751.01,Books,Yes,No
+INCUST00193,Chirag Chandra,M,chirag.chandra640@rediffmail.com,+91 7726712134,Pune,Maharashtra,411001,Prime,2018-06-20,42,17630.11,Grocery & Gourmet,Yes,No
+INCUST00194,Ayush Deshpande,M,ayush.deshpande355@rediffmail.com,+91 8904842971,Visakhapatnam,Andhra Pradesh,530001,Prime,2017-07-04,57,1805.11,Sports & Fitness,Yes,No
+INCUST00195,Parth Mittal,M,parth.mittal271@rediffmail.com,+91 9455860469,Agra,Uttar Pradesh,282001,Prime,2016-11-17,2,33937.55,Electronics,Yes,No
+INCUST00196,Rakesh Mittal,M,rakesh.mittal867@rediffmail.com,+91 9290422335,Pune,Maharashtra,411001,Prime,2022-02-21,56,14342.13,Books,Yes,No
+INCUST00197,Sneha Pathak,F,sneha.pathak827@outlook.com,+91 7956893522,Bhopal,Madhya Pradesh,462001,Prime,2023-01-08,46,9600.59,Sports & Fitness,Yes,No
+INCUST00198,Mukesh Ghosh,M,mukesh.ghosh562@gmail.com,+91 7260964434,Kanpur,Uttar Pradesh,208001,Non-Prime,2020-05-27,2,9803.38,Beauty & Personal Care,Yes,No
+INCUST00199,Sachin Kaur,M,sachin.kaur63@gmail.com,+91 7657087574,Thane,Maharashtra,400601,Non-Prime,2022-02-15,24,1802.19,Electronics,Yes,No
+INCUST00200,Kavya Srivastava,F,kavya.srivastava488@outlook.com,+91 9490164983,Varanasi,Uttar Pradesh,221001,Non-Prime,2020-04-11,79,9852.15,Mobile & Accessories,Yes,No
+INCUST00201,Ramesh Das,M,ramesh.das591@outlook.com,+91 8656592342,Vasai,Maharashtra,401202,Prime,2020-01-28,22,24084.99,Office Products,Yes,No
+INCUST00202,Pallavi Rao,F,pallavi.rao837@gmail.com,+91 8848470746,Hyderabad,Telangana,500001,Prime,2018-03-13,57,21045.92,Home & Kitchen,Yes,No
+INCUST00203,Akanksha Kaur,F,akanksha.kaur340@outlook.com,+91 8310169330,Faridabad,Haryana,121001,Non-Prime,2019-02-06,2,1623.48,Mobile & Accessories,Yes,No
+INCUST00204,Ravi Malhotra,M,ravi.malhotra906@yahoo.co.in,+91 8625993601,Bengaluru,Karnataka,560001,Prime,2021-03-15,7,26766.8,Mobile & Accessories,No,No
+INCUST00205,Sonal Pathak,F,sonal.pathak460@gmail.com,+91 7469680207,Jaipur,Rajasthan,302001,Non-Prime,2016-07-23,56,39568.51,Sports & Fitness,Yes,No
+INCUST00206,Anuj Reddy,M,anuj.reddy385@yahoo.co.in,+91 7774940418,Surat,Gujarat,395001,Non-Prime,2020-07-04,74,10192.79,Mobile & Accessories,Yes,Yes
+INCUST00207,Varsha Chakraborty,F,varsha.chakraborty609@outlook.com,+91 9934510495,Rajkot,Gujarat,360001,Non-Prime,2019-07-24,27,37316.32,Electronics,Yes,No
+INCUST00208,Priya Tandon,F,priya.tandon878@yahoo.co.in,+91 8373501273,Thane,Maharashtra,400601,Prime,2020-07-10,25,34415.01,Beauty & Personal Care,Yes,No
+INCUST00209,Ekta Chauhan,F,ekta.chauhan185@yahoo.co.in,+91 9762668299,Varanasi,Uttar Pradesh,221001,Prime,2021-05-23,74,7714.11,Books,Yes,No
+INCUST00210,Vidya Thakur,F,vidya.thakur383@rediffmail.com,+91 8776218454,Agra,Uttar Pradesh,282001,Non-Prime,2017-12-16,73,6183.13,Clothing & Fashion,Yes,No
+INCUST00211,Deepika Sawant,F,deepika.sawant101@rediffmail.com,+91 7417282896,Varanasi,Uttar Pradesh,221001,Non-Prime,2015-05-23,21,3366.03,Grocery & Gourmet,Yes,No
+INCUST00212,Sahil Pandey,M,sahil.pandey623@outlook.com,+91 9335179646,Delhi,Delhi,110001,Prime,2017-10-22,41,2748.91,Beauty & Personal Care,Yes,No
+INCUST00213,Anushka Yadav,F,anushka.yadav310@yahoo.co.in,+91 7298590593,Jaipur,Rajasthan,302001,Prime,2018-04-24,8,13291.78,Sports & Fitness,No,No
+INCUST00214,Saurabh Bajaj,M,saurabh.bajaj114@gmail.com,+91 8399621752,Ahmedabad,Gujarat,380001,Prime,2020-01-14,31,20834.51,Pet Supplies,Yes,No
+INCUST00215,Manoj Srivastava,M,manoj.srivastava75@gmail.com,+91 8923834019,Jaipur,Rajasthan,302001,Prime,2015-11-25,75,29289.18,Grocery & Gourmet,No,No
+INCUST00216,Arpita Jain,F,arpita.jain277@outlook.com,+91 7932052889,Hyderabad,Telangana,500001,Prime,2022-01-10,28,5731.34,Grocery & Gourmet,Yes,No
+INCUST00217,Zara Pathak,F,zara.pathak860@outlook.com,+91 8693746831,Pune,Maharashtra,411001,Non-Prime,2016-09-16,59,30556.21,Mobile & Accessories,Yes,No
+INCUST00218,Tanvi Tandon,F,tanvi.tandon638@rediffmail.com,+91 9224321330,Patna,Bihar,800001,Non-Prime,2020-11-09,78,16113.7,Pet Supplies,Yes,No
+INCUST00219,Saurabh Jain,M,saurabh.jain627@gmail.com,+91 9746106879,Meerut,Uttar Pradesh,250001,Non-Prime,2023-04-06,15,38605.29,Mobile & Accessories,Yes,Yes
+INCUST00220,Nikhil Grover,M,nikhil.grover131@outlook.com,+91 9184392507,Bhopal,Madhya Pradesh,462001,Prime,2017-05-20,34,12500.26,Electronics,Yes,No
+INCUST00221,Vrinda Bajaj,F,vrinda.bajaj21@gmail.com,+91 7437019866,Faridabad,Haryana,121001,Non-Prime,2020-04-04,78,41563.83,Office Products,Yes,No
+INCUST00222,Divya Srivastava,F,divya.srivastava469@gmail.com,+91 9728101924,Vadodara,Gujarat,390001,Prime,2019-09-14,7,32115.27,Home & Kitchen,Yes,No
+INCUST00223,Vishal Sarin,M,vishal.sarin549@rediffmail.com,+91 8544189836,Vasai,Maharashtra,401202,Non-Prime,2022-06-04,77,4116.11,Beauty & Personal Care,Yes,No
+INCUST00224,Urvashi Sen,F,urvashi.sen548@gmail.com,+91 7457578140,Jaipur,Rajasthan,302001,Prime,2018-04-25,67,17874.22,Beauty & Personal Care,Yes,No
+INCUST00225,Varsha Ghosh,F,varsha.ghosh762@rediffmail.com,+91 9625191727,Patna,Bihar,800001,Non-Prime,2018-11-21,78,36252.29,Home & Kitchen,Yes,No
+INCUST00226,Shubham Saxena,M,shubham.saxena449@yahoo.co.in,+91 8721893715,Meerut,Uttar Pradesh,250001,Non-Prime,2018-05-12,62,44860.33,Sports & Fitness,Yes,No
+INCUST00227,Dev Kapoor,M,dev.kapoor35@rediffmail.com,+91 7155376641,Pimpri,Maharashtra,411017,Non-Prime,2020-06-30,7,2465.77,Clothing & Fashion,Yes,No
+INCUST00228,Nisha Kapoor,F,nisha.kapoor245@yahoo.co.in,+91 9197965695,Hyderabad,Telangana,500001,Non-Prime,2015-10-21,38,20845.88,Office Products,Yes,No
+INCUST00229,Sonal Bajaj,F,sonal.bajaj288@rediffmail.com,+91 9171076077,Varanasi,Uttar Pradesh,221001,Prime,2017-08-10,69,17879.11,Clothing & Fashion,Yes,No
+INCUST00230,Rekha Bansal,F,rekha.bansal919@outlook.com,+91 7855127698,Ludhiana,Punjab,141001,Prime,2019-12-28,4,20193.92,Pet Supplies,No,No
+INCUST00231,Ayush Banerjee,M,ayush.banerjee314@yahoo.co.in,+91 8163104444,Jaipur,Rajasthan,302001,Prime,2021-01-16,70,17747.21,Home & Kitchen,Yes,No
+INCUST00232,Sandeep Thakur,M,sandeep.thakur564@outlook.com,+91 9368275740,Patna,Bihar,800001,Prime,2015-03-24,28,39238.23,Home & Kitchen,Yes,No
+INCUST00233,Gauri Iyer,F,gauri.iyer803@gmail.com,+91 9492793555,Vasai,Maharashtra,401202,Non-Prime,2023-03-15,57,12305.53,Clothing & Fashion,Yes,No
+INCUST00234,Ishita Gupta,F,ishita.gupta648@yahoo.co.in,+91 7141054292,Lucknow,Uttar Pradesh,226001,Non-Prime,2019-11-28,1,10052.29,Beauty & Personal Care,Yes,No
+INCUST00235,Vikram Chandra,M,vikram.chandra862@outlook.com,+91 7446013660,Surat,Gujarat,395001,Prime,2018-11-14,14,37828.98,Office Products,Yes,No
+INCUST00236,Siddarth Bansal,M,siddarth.bansal378@yahoo.co.in,+91 9984333183,Patna,Bihar,800001,Prime,2018-12-10,21,6254.83,Electronics,Yes,Yes
+INCUST00237,Nandini Banerjee,F,nandini.banerjee85@yahoo.co.in,+91 8729315669,Agra,Uttar Pradesh,282001,Prime,2015-02-20,71,10360.74,Sports & Fitness,Yes,No
+INCUST00238,Deepika Goswami,F,deepika.goswami715@gmail.com,+91 7534148964,Nashik,Maharashtra,422001,Non-Prime,2021-01-10,24,641.51,Books,Yes,No
+INCUST00239,Sneha Deshpande,F,sneha.deshpande572@gmail.com,+91 9964805296,Kalyan,Maharashtra,421301,Non-Prime,2015-03-17,1,5059.7,Office Products,Yes,No
+INCUST00240,Riya Sinha,F,riya.sinha185@gmail.com,+91 8599419862,Kalyan,Maharashtra,421301,Prime,2016-02-06,39,44016.18,Beauty & Personal Care,Yes,No
+INCUST00241,Ekta Bajaj,F,ekta.bajaj63@rediffmail.com,+91 8717990551,Ludhiana,Punjab,141001,Prime,2022-04-16,42,4111.17,Clothing & Fashion,No,No
+INCUST00242,Tushar Joshi,M,tushar.joshi666@rediffmail.com,+91 7572588783,Kalyan,Maharashtra,421301,Non-Prime,2018-10-16,7,6087.89,Office Products,Yes,No
+INCUST00243,Rahul Goyal,M,rahul.goyal881@gmail.com,+91 9154117753,Patna,Bihar,800001,Non-Prime,2021-08-24,18,1356.74,Clothing & Fashion,Yes,No
+INCUST00244,Ananya Tandon,F,ananya.tandon110@gmail.com,+91 8528105390,Kanpur,Uttar Pradesh,208001,Non-Prime,2015-04-10,59,7401.85,Clothing & Fashion,Yes,No
+INCUST00245,Parul Sen,F,parul.sen425@yahoo.co.in,+91 7612131032,Meerut,Uttar Pradesh,250001,Prime,2019-04-04,29,12890.07,Books,Yes,No
+INCUST00246,Urvashi Mishra,F,urvashi.mishra750@yahoo.co.in,+91 8325081133,Thane,Maharashtra,400601,Prime,2016-01-23,80,11827.06,Books,Yes,No
+INCUST00247,Dev Jain,M,dev.jain662@rediffmail.com,+91 7582636688,Ghaziabad,Uttar Pradesh,201001,Prime,2018-11-20,36,5581.84,Clothing & Fashion,Yes,Yes
+INCUST00248,Pranav Chakraborty,M,pranav.chakraborty769@rediffmail.com,+91 7232687301,Visakhapatnam,Andhra Pradesh,530001,Prime,2019-09-15,75,34094.24,Grocery & Gourmet,Yes,No
+INCUST00249,Hemant Kumar,M,hemant.kumar942@gmail.com,+91 8883898511,Chennai,Tamil Nadu,600001,Prime,2015-11-13,44,38389.12,Grocery & Gourmet,Yes,No
+INCUST00250,Swati Varma,F,swati.varma179@outlook.com,+91 9122825211,Meerut,Uttar Pradesh,250001,Prime,2020-12-11,44,5574.33,Books,Yes,No
+INCUST00251,Urvashi Mehta,F,urvashi.mehta539@rediffmail.com,+91 9855580286,Thane,Maharashtra,400601,Prime,2016-12-11,75,9137.2,Clothing & Fashion,Yes,No
+INCUST00252,Rashmi Rajput,F,rashmi.rajput81@outlook.com,+91 7715963577,Faridabad,Haryana,121001,Prime,2017-10-01,7,32363.65,Clothing & Fashion,Yes,No
+INCUST00253,Gaurav Naidu,M,gaurav.naidu660@yahoo.co.in,+91 8589440931,Pune,Maharashtra,411001,Non-Prime,2016-09-12,27,18757.5,Electronics,Yes,No
+INCUST00254,Simran Jha,F,simran.jha648@gmail.com,+91 9935448648,Delhi,Delhi,110001,Non-Prime,2017-05-06,58,29771.08,Clothing & Fashion,No,No
+INCUST00255,Ishita Arora,F,ishita.arora542@rediffmail.com,+91 7622731119,Meerut,Uttar Pradesh,250001,Non-Prime,2021-10-11,80,28076.85,Office Products,Yes,No
+INCUST00256,Shikha Thakur,F,shikha.thakur958@yahoo.co.in,+91 7941578674,Indore,Madhya Pradesh,452001,Prime,2020-12-22,51,17211.66,Electronics,Yes,No
+INCUST00257,Sneha Reddy,F,sneha.reddy855@rediffmail.com,+91 8582392317,Vadodara,Gujarat,390001,Non-Prime,2018-06-02,60,19237.55,Home & Kitchen,Yes,No
+INCUST00258,Kirti Thakur,F,kirti.thakur757@outlook.com,+91 7987676851,Surat,Gujarat,395001,Non-Prime,2016-07-28,22,6989.18,Clothing & Fashion,Yes,Yes
+INCUST00259,Vikas Menon,M,vikas.menon15@yahoo.co.in,+91 7945999064,Kanpur,Uttar Pradesh,208001,Non-Prime,2021-05-08,63,16234.41,Grocery & Gourmet,Yes,No
+INCUST00260,Swati Gaikwad,F,swati.gaikwad95@outlook.com,+91 8351563182,Bhopal,Madhya Pradesh,462001,Prime,2015-12-25,56,8918.37,Pet Supplies,Yes,Yes
+INCUST00261,Vivek Jha,M,vivek.jha997@yahoo.co.in,+91 7790163707,Chennai,Tamil Nadu,600001,Prime,2018-10-02,72,588.6,Beauty & Personal Care,Yes,Yes
+INCUST00262,Bharat Sarin,M,bharat.sarin33@gmail.com,+91 8327187640,Ludhiana,Punjab,141001,Non-Prime,2015-01-13,22,34753.09,Sports & Fitness,Yes,No
+INCUST00263,Shreya Ghosh,F,shreya.ghosh985@rediffmail.com,+91 7252545428,Meerut,Uttar Pradesh,250001,Prime,2016-03-27,31,43219.53,Beauty & Personal Care,Yes,Yes
+INCUST00264,Kirti Srivastava,F,kirti.srivastava772@outlook.com,+91 7401587142,Vadodara,Gujarat,390001,Prime,2023-11-22,45,30451.72,Electronics,Yes,No
+INCUST00265,Sonal Saxena,F,sonal.saxena618@gmail.com,+91 8990329145,Hyderabad,Telangana,500001,Non-Prime,2015-06-25,62,40609.64,Clothing & Fashion,Yes,No
+INCUST00266,Saloni Mahajan,F,saloni.mahajan942@yahoo.co.in,+91 9488932790,Pune,Maharashtra,411001,Prime,2015-03-08,6,34859.88,Beauty & Personal Care,Yes,No
+INCUST00267,Meena Chopra,F,meena.chopra645@outlook.com,+91 7904376982,Bhopal,Madhya Pradesh,462001,Non-Prime,2023-05-13,66,18106.63,Books,No,No
+INCUST00268,Nikhil Malhotra,M,nikhil.malhotra41@rediffmail.com,+91 8666018474,Indore,Madhya Pradesh,452001,Non-Prime,2022-06-03,54,8126.92,Home & Kitchen,Yes,No
+INCUST00269,Aditya Bhatnagar,M,aditya.bhatnagar952@rediffmail.com,+91 7120879507,Nashik,Maharashtra,422001,Non-Prime,2015-01-12,42,3741.27,Home & Kitchen,Yes,No
+INCUST00270,Priyanka Mukherjee,F,priyanka.mukherjee950@rediffmail.com,+91 9518570928,Thane,Maharashtra,400601,Non-Prime,2023-06-08,15,2006.26,Grocery & Gourmet,Yes,No
+INCUST00271,Vrinda Goyal,F,vrinda.goyal752@yahoo.co.in,+91 7964107146,Bengaluru,Karnataka,560001,Non-Prime,2020-04-19,49,35810.02,Mobile & Accessories,Yes,No
+INCUST00272,Rekha Mahajan,F,rekha.mahajan873@rediffmail.com,+91 8862585276,Mumbai,Maharashtra,400001,Prime,2018-04-14,60,34177.87,Mobile & Accessories,Yes,Yes
+INCUST00273,Akash Bapat,M,akash.bapat816@rediffmail.com,+91 9239459388,Hyderabad,Telangana,500001,Prime,2015-09-10,33,38826.39,Electronics,Yes,No
+INCUST00274,Hitesh Chatterjee,M,hitesh.chatterjee87@gmail.com,+91 7709566913,Vasai,Maharashtra,401202,Non-Prime,2020-09-04,17,21703.08,Clothing & Fashion,Yes,No
+INCUST00275,Sunil Garg,M,sunil.garg953@outlook.com,+91 8476122432,Kalyan,Maharashtra,421301,Non-Prime,2023-03-23,6,32427.67,Books,Yes,No
+INCUST00276,Sachin Yadav,M,sachin.yadav222@rediffmail.com,+91 8573342474,Indore,Madhya Pradesh,452001,Non-Prime,2021-06-07,48,30585.32,Grocery & Gourmet,Yes,Yes
+INCUST00277,Parul Pillai,F,parul.pillai94@outlook.com,+91 8296929036,Bhopal,Madhya Pradesh,462001,Prime,2020-06-22,59,5650.45,Office Products,Yes,No
+INCUST00278,Meenakshi Chakraborty,F,meenakshi.chakraborty704@yahoo.co.in,+91 8902921182,Ludhiana,Punjab,141001,Non-Prime,2019-11-28,61,25978.69,Pet Supplies,Yes,No
+INCUST00279,Pragya Tandon,F,pragya.tandon121@gmail.com,+91 7878349608,Ghaziabad,Uttar Pradesh,201001,Non-Prime,2021-12-26,54,11107.98,Grocery & Gourmet,Yes,Yes
+INCUST00280,Yamini Menon,F,yamini.menon572@gmail.com,+91 8658227171,Patna,Bihar,800001,Non-Prime,2023-11-24,21,9359.04,Home & Kitchen,Yes,Yes
+INCUST00281,Yogesh Sharma,M,yogesh.sharma537@yahoo.co.in,+91 9757428745,Bengaluru,Karnataka,560001,Prime,2023-10-01,3,29662.97,Office Products,No,No
+INCUST00282,Mayank Yadav,M,mayank.yadav754@yahoo.co.in,+91 8974280005,Kanpur,Uttar Pradesh,208001,Non-Prime,2021-12-08,17,27863.87,Grocery & Gourmet,Yes,No
+INCUST00283,Ronak Sawant,M,ronak.sawant990@yahoo.co.in,+91 7955129225,Rajkot,Gujarat,360001,Non-Prime,2015-01-12,25,6204.04,Electronics,No,No
+INCUST00284,Arjun Desai,M,arjun.desai822@rediffmail.com,+91 7895145764,Hyderabad,Telangana,500001,Prime,2021-07-09,60,31999.35,Office Products,No,No
+INCUST00285,Priya Malhotra,F,priya.malhotra650@yahoo.co.in,+91 7104534378,Hyderabad,Telangana,500001,Non-Prime,2020-01-21,66,25397.55,Grocery & Gourmet,No,No
+INCUST00286,Vrinda Patil,F,vrinda.patil144@outlook.com,+91 8989652584,Chennai,Tamil Nadu,600001,Prime,2017-06-05,13,22965.86,Office Products,Yes,No
+INCUST00287,Ishita Agarwal,F,ishita.agarwal184@yahoo.co.in,+91 7236496328,Meerut,Uttar Pradesh,250001,Prime,2023-03-17,37,34888.67,Electronics,Yes,No
+INCUST00288,Ananya Jha,F,ananya.jha578@gmail.com,+91 8487401006,Kolkata,West Bengal,700001,Prime,2016-10-08,65,36176.22,Mobile & Accessories,Yes,No
+INCUST00289,Mihir Guha,M,mihir.guha450@outlook.com,+91 9713679157,Ludhiana,Punjab,141001,Prime,2017-03-07,40,38915.28,Mobile & Accessories,Yes,No
+INCUST00290,Ravi Goyal,M,ravi.goyal164@outlook.com,+91 9583450204,Ghaziabad,Uttar Pradesh,201001,Prime,2020-02-12,34,22186.58,Electronics,Yes,Yes
+INCUST00291,Swati Banerjee,F,swati.banerjee662@outlook.com,+91 7898889055,Chennai,Tamil Nadu,600001,Non-Prime,2017-02-23,6,33955.53,Mobile & Accessories,No,No
+INCUST00292,Shivam Varma,M,shivam.varma892@outlook.com,+91 8835995272,Pune,Maharashtra,411001,Non-Prime,2020-03-01,51,38861.23,Pet Supplies,Yes,No
+INCUST00293,Ronak Yadav,M,ronak.yadav633@rediffmail.com,+91 7253705614,Mumbai,Maharashtra,400001,Prime,2021-08-07,4,7977.62,Sports & Fitness,Yes,No
+INCUST00294,Sandhya Chauhan,F,sandhya.chauhan293@outlook.com,+91 9560556343,Kolkata,West Bengal,700001,Non-Prime,2019-11-22,24,28324.78,Books,Yes,No
+INCUST00295,Kirti Singh,F,kirti.singh419@rediffmail.com,+91 7493198496,Kalyan,Maharashtra,421301,Non-Prime,2020-12-08,1,31890.85,Beauty & Personal Care,Yes,No
+INCUST00296,Aarav Gaikwad,M,aarav.gaikwad87@gmail.com,+91 7894029645,Lucknow,Uttar Pradesh,226001,Non-Prime,2019-02-09,49,44643.77,Pet Supplies,No,No
+INCUST00297,Pragya Mahajan,F,pragya.mahajan150@yahoo.co.in,+91 7857588632,Nashik,Maharashtra,422001,Non-Prime,2015-10-01,48,10406.44,Sports & Fitness,Yes,Yes
+INCUST00298,Meena Mitra,F,meena.mitra731@yahoo.co.in,+91 7726660051,Bhopal,Madhya Pradesh,462001,Prime,2019-06-13,21,4483.66,Sports & Fitness,Yes,No
+INCUST00299,Manoj Mehta,M,manoj.mehta433@gmail.com,+91 8597432847,Nashik,Maharashtra,422001,Prime,2019-03-09,78,19279.93,Sports & Fitness,Yes,Yes
+INCUST00300,Gauri Agarwal,F,gauri.agarwal24@gmail.com,+91 9379112549,Kalyan,Maharashtra,421301,Non-Prime,2015-08-26,74,22119.76,Books,Yes,Yes
+INCUST00301,Ayush Patil,M,ayush.patil273@yahoo.co.in,+91 9367243972,Rajkot,Gujarat,360001,Non-Prime,2020-09-06,66,28870.83,Clothing & Fashion,Yes,No
+INCUST00302,Karan Ghosh,M,karan.ghosh500@outlook.com,+91 7222157338,Ahmedabad,Gujarat,380001,Prime,2017-08-17,9,41297.33,Home & Kitchen,No,No
+INCUST00303,Sanjay Singh,M,sanjay.singh336@yahoo.co.in,+91 8612870008,Jaipur,Rajasthan,302001,Non-Prime,2023-02-10,3,10970.6,Books,Yes,No
+INCUST00304,Simran Basu,F,simran.basu219@rediffmail.com,+91 9924140958,Kolkata,West Bengal,700001,Prime,2021-10-09,54,9933.81,Mobile & Accessories,Yes,No
+INCUST00305,Komal Mukherjee,F,komal.mukherjee612@gmail.com,+91 9194693208,Patna,Bihar,800001,Non-Prime,2018-09-07,25,31059.42,Electronics,Yes,No
+INCUST00306,Meera Kapoor,F,meera.kapoor442@outlook.com,+91 7294485125,Ahmedabad,Gujarat,380001,Non-Prime,2021-03-14,53,17518.01,Clothing & Fashion,Yes,Yes
+INCUST00307,Vrinda Arora,F,vrinda.arora391@rediffmail.com,+91 8193078746,Jaipur,Rajasthan,302001,Non-Prime,2018-01-12,5,35928.83,Office Products,Yes,No
+INCUST00308,Ankit Sawant,M,ankit.sawant449@outlook.com,+91 9112934671,Patna,Bihar,800001,Non-Prime,2015-02-15,21,21151.01,Sports & Fitness,Yes,No
+INCUST00309,Ronak Nair,M,ronak.nair637@outlook.com,+91 9459314938,Kolkata,West Bengal,700001,Prime,2021-04-19,52,39330.15,Books,Yes,No
+INCUST00310,Tanvi Goswami,F,tanvi.goswami692@rediffmail.com,+91 8632338010,Hyderabad,Telangana,500001,Non-Prime,2019-10-18,23,7229.54,Home & Kitchen,Yes,No
+INCUST00311,Geeta Bhatt,F,geeta.bhatt502@rediffmail.com,+91 9726483275,Bengaluru,Karnataka,560001,Prime,2022-03-15,9,36029.79,Home & Kitchen,Yes,No
+INCUST00312,Saurabh Chopra,M,saurabh.chopra139@gmail.com,+91 7190534213,Chennai,Tamil Nadu,600001,Prime,2023-12-17,78,11029.44,Books,Yes,No
+INCUST00313,Ravi Menon,M,ravi.menon451@rediffmail.com,+91 8682329212,Bengaluru,Karnataka,560001,Prime,2019-03-22,57,28519.99,Home & Kitchen,Yes,Yes
+INCUST00314,Arpita Rao,F,arpita.rao281@rediffmail.com,+91 9550427352,Vadodara,Gujarat,390001,Prime,2015-02-19,32,14445.23,Beauty & Personal Care,Yes,No
+INCUST00315,Mukesh Shah,M,mukesh.shah243@rediffmail.com,+91 8581437435,Pimpri,Maharashtra,411017,Prime,2019-09-12,53,44016.01,Beauty & Personal Care,Yes,No
+INCUST00316,Rohan Pillai,M,rohan.pillai253@gmail.com,+91 7226790135,Hyderabad,Telangana,500001,Prime,2017-05-23,48,4190.8,Grocery & Gourmet,Yes,No
+INCUST00317,Dinesh Chopra,M,dinesh.chopra522@gmail.com,+91 7815727342,Bengaluru,Karnataka,560001,Prime,2023-04-26,48,27895.46,Sports & Fitness,No,No
+INCUST00318,Rohit Mehta,M,rohit.mehta368@outlook.com,+91 9977221210,Mumbai,Maharashtra,400001,Prime,2022-02-26,54,20238.15,Office Products,Yes,No
+INCUST00319,Riya Rastogi,F,riya.rastogi136@rediffmail.com,+91 9718257125,Pimpri,Maharashtra,411017,Prime,2017-06-24,42,6033.38,Home & Kitchen,Yes,No
+INCUST00320,Deepika Sharma,F,deepika.sharma686@yahoo.co.in,+91 8638602066,Kolkata,West Bengal,700001,Prime,2023-04-07,35,27079.53,Beauty & Personal Care,Yes,Yes

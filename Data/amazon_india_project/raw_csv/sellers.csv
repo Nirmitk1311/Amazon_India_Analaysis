@@ -1,0 +1,76 @@
+seller_id,seller_name,gstin,primary_category,city,state,fulfillment_type,seller_rating,total_sales_inr,total_listings,feedback_count,joined_date,account_health,return_rate_pct,defect_rate_pct,on_time_ship_pct,avg_response_hrs,brand_registered
+INSLR0001,Cloudtail India,104R2G9NLETJP,Grocery & Gourmet,Rajkot,Gujarat,FBM,3.5,16539246,1592,19081,2015-04-12,Healthy,8.03,2.79,89.7,23.0,Yes
+INSLR0002,Appario Retail,37DU3729JW79L,Sports & Fitness,Ahmedabad,Gujarat,FBA,3.2,5832393,1649,95387,2018-04-13,At Risk,8.54,2.47,89.2,29.0,Yes
+INSLR0003,Cocoblu Retail,11RBM9E96YCQW,Electronics,Vasai,Maharashtra,Easy Ship,2.9,27516813,4781,83376,2017-12-14,Healthy,8.23,1.87,89.6,29.1,Yes
+INSLR0004,RetailNet,3436ZIXQ59D4H,Home & Kitchen,Ludhiana,Punjab,FBA,3.1,36046568,762,6250,2021-06-16,Healthy,5.26,3.69,92.9,0.9,No
+INSLR0005,SuperComNet,26J4DWKJQGVCA,Beauty & Personal Care,Jaipur,Rajasthan,FBA,4.5,6168616,1333,25528,2013-09-02,Healthy,13.44,1.13,94.0,14.2,No
+INSLR0006,Sunrise Wholesale,27Z1G3PJ554LG,Beauty & Personal Care,Faridabad,Haryana,FBA,2.8,44600395,905,70898,2014-04-15,Healthy,11.02,0.83,99.3,14.4,No
+INSLR0007,Om Traders,18YFM2B6VUYCA,Mobile & Accessories,Meerut,Uttar Pradesh,FBM,4.9,49027776,3926,89914,2017-11-18,Healthy,7.72,4.36,91.0,35.0,No
+INSLR0008,Shree Ganesh Traders,32KMX0AQ4R2TC,Mobile & Accessories,Pimpri,Maharashtra,Easy Ship,4.9,8446040,1057,39512,2020-11-27,Healthy,13.58,0.37,94.1,22.8,No
+INSLR0009,Bharat Electronics,31DB90SC0HU0K,Pet Supplies,Indore,Madhya Pradesh,FBA,3.0,25624563,1047,9026,2022-04-29,At Risk,11.4,3.7,99.1,23.1,Yes
+INSLR0010,Digital World India,208PSMXJ27MFI,Sports & Fitness,Bhopal,Madhya Pradesh,FBA,3.2,39149451,3583,78134,2016-05-02,At Risk,12.26,3.55,92.8,4.3,No
+INSLR0011,Fashion Hub Online,23PSPO3DP5MRM,Office Products,Visakhapatnam,Andhra Pradesh,FBM,3.4,33458591,1970,95225,2022-07-26,Healthy,8.43,0.4,91.4,34.8,No
+INSLR0012,Glamour Store India,10UN6NJ9DMEZE,Office Products,Kalyan,Maharashtra,FBA,3.6,37591971,3529,84159,2020-06-06,Healthy,13.56,1.44,91.4,18.8,No
+INSLR0013,KitchenMart,25VSPHWB7RVPA,Electronics,Kolkata,West Bengal,FBA,3.9,20133511,2823,50828,2022-08-18,Healthy,12.75,1.23,97.4,7.0,No
+INSLR0014,HomeDecor India,32ZGUHMK0TSNO,Office Products,Bengaluru,Karnataka,FBA,2.9,24452869,3996,65303,2015-02-12,Healthy,1.54,0.95,92.3,9.0,Yes
+INSLR0015,BookBazar India,17K280LR0I2BR,Beauty & Personal Care,Nashik,Maharashtra,Easy Ship,3.9,16851480,946,75435,2017-05-18,Healthy,5.68,1.91,93.5,13.9,Yes
+INSLR0016,SportZone India,20I1EMVR8ROGB,Grocery & Gourmet,Pune,Maharashtra,Easy Ship,4.6,2086075,3476,15931,2022-08-23,Healthy,10.57,4.43,90.7,18.0,Yes
+INSLR0017,PetCare India,24B7Q5DFUJK7W,Office Products,Delhi,Delhi,FBA,2.8,24926072,4030,37384,2018-04-13,Healthy,1.73,1.33,99.2,31.1,Yes
+INSLR0018,OfficeSupplies Hub,323BZ2ZXHOELD,Home & Kitchen,Kanpur,Uttar Pradesh,Easy Ship,3.4,11034668,2386,39314,2016-12-15,Healthy,3.92,1.6,95.7,20.4,No
+INSLR0019,GroceryMart Online,28ALDJEYS13ZT,Pet Supplies,Varanasi,Uttar Pradesh,FBM,4.8,15048152,4873,64971,2022-02-22,Healthy,4.17,1.83,89.5,28.1,Yes
+INSLR0020,BeautyBox India,13TSV7VSS9FKW,Mobile & Accessories,Faridabad,Haryana,Easy Ship,3.3,48316903,3547,56264,2016-04-06,Healthy,13.72,0.98,88.4,8.1,No
+INSLR0021,Zeal Industries,234OJ45B3ICWD,Electronics,Chennai,Tamil Nadu,FBA,4.0,5211707,18,58467,2020-09-16,At Risk,12.95,1.83,89.7,19.3,No
+INSLR0022,Maple Trading Co,32XM97WASE45Y,Grocery & Gourmet,Surat,Gujarat,FBM,3.0,29608818,1794,60512,2015-07-23,Healthy,0.87,1.99,98.4,11.1,Yes
+INSLR0023,Kiran Enterprises,2388OWKBA0ISJ,Electronics,Vasai,Maharashtra,Easy Ship,2.9,38660657,3101,44640,2014-08-28,Healthy,12.2,3.21,94.9,1.4,No
+INSLR0024,Anand Distributors,31YUPA5BD1KMI,Books,Vasai,Maharashtra,FBA,3.3,25218901,3780,93358,2022-10-15,At Risk,5.12,3.39,97.0,27.3,Yes
+INSLR0025,Rathi Brothers,35OBVD17VP2ZS,Books,Pune,Maharashtra,FBM,4.0,12337277,2734,21113,2020-09-16,Healthy,5.27,4.04,88.7,15.6,No
+INSLR0026,Pioneer Online Retail,34Y5SRDUFJC0F,Office Products,Patna,Bihar,FBA,3.1,27330745,1003,90001,2013-09-28,Healthy,9.81,0.96,97.2,14.6,Yes
+INSLR0027,SwiftShip Store,25LZXYQPXFBDA,Books,Bhopal,Madhya Pradesh,FBA,3.6,6679285,3144,5237,2017-12-11,Healthy,2.37,0.59,92.2,4.9,No
+INSLR0028,TrendyBuy India,14G8TSHCFMG5J,Pet Supplies,Lucknow,Uttar Pradesh,FBM,3.7,36862768,3709,35115,2018-06-01,Critical,4.53,2.04,93.2,4.7,Yes
+INSLR0029,ValueZone India,2323LN6CW5BTL,Sports & Fitness,Delhi,Delhi,FBM,2.9,25107816,3025,27394,2013-02-23,Healthy,11.76,2.6,90.8,27.9,Yes
+INSLR0030,QuickCart IN,259UFBQSX6R6O,Grocery & Gourmet,Delhi,Delhi,FBA,4.7,11248155,3143,87896,2015-05-10,Critical,13.92,4.06,89.2,26.3,Yes
+INSLR0031,BazaarCart,22W6XULKQRS7X,Books,Kolkata,West Bengal,FBM,4.8,36644311,2303,51609,2013-06-28,Healthy,5.89,4.46,93.2,24.4,Yes
+INSLR0032,IndiaShop24,15ZE38I47PLWT,Electronics,Mumbai,Maharashtra,FBA,4.5,19683047,4292,55969,2014-08-11,Healthy,13.06,2.58,94.2,4.0,Yes
+INSLR0033,BestPrice Store,26MRPCH82Y2SB,Grocery & Gourmet,Rajkot,Gujarat,FBA,3.8,30636480,3292,4705,2019-04-12,Critical,5.04,2.65,99.0,22.9,No
+INSLR0034,MegaMart Online,20848NSV97LAS,Mobile & Accessories,Kalyan,Maharashtra,FBA,3.1,19235214,3740,25109,2012-11-18,Healthy,1.58,0.14,96.0,34.0,No
+INSLR0035,DealKing India,17AE9701PW6QM,Mobile & Accessories,Agra,Uttar Pradesh,FBM,3.0,28506436,694,94295,2020-12-05,At Risk,13.63,1.34,94.0,4.6,No
+INSLR0036,ShopFast India,318IOZT3VDLWV,Books,Hyderabad,Telangana,FBM,4.8,22993742,4811,33692,2015-03-23,Healthy,3.51,0.64,89.8,15.8,No
+INSLR0037,Prime Sellers Hub,37PJ5AIDLISXW,Sports & Fitness,Surat,Gujarat,FBA,4.8,12792521,4664,63881,2014-04-06,Healthy,2.32,3.19,98.4,23.6,No
+INSLR0038,NexGen Retail,185MY2Q8U1DPA,Pet Supplies,Pune,Maharashtra,FBA,4.1,16583125,1078,77568,2012-08-18,Healthy,9.56,3.59,98.8,26.1,Yes
+INSLR0039,EasyBuy Online,37A1BEES5FHBB,Beauty & Personal Care,Jaipur,Rajasthan,FBA,4.6,27477681,2283,60045,2019-05-03,Healthy,13.05,0.29,94.1,34.2,Yes
+INSLR0040,FreshDeals India,30CSEXA8XGTJO,Sports & Fitness,Surat,Gujarat,FBA,3.4,25646474,3722,61486,2018-10-12,Healthy,11.59,0.51,94.8,27.7,No
+INSLR0041,Vijay Sales Online,33XZ6LTOJO86I,Books,Kanpur,Uttar Pradesh,FBA,4.6,40793830,4784,16790,2012-06-13,At Risk,1.62,0.39,99.1,34.7,Yes
+INSLR0042,Reliance Digital Store,2393WMFVP3AUB,Sports & Fitness,Thane,Maharashtra,FBA,3.0,13718869,3551,38769,2016-01-31,Healthy,13.52,1.73,99.0,21.4,No
+INSLR0043,Nykaa Fashion Hub,159ETEZFN5JOD,Sports & Fitness,Delhi,Delhi,Easy Ship,4.0,25923315,500,5391,2015-04-03,Healthy,4.32,1.74,99.2,30.4,No
+INSLR0044,Meesho Wholesale,35AFU3YMJ6B8Z,Mobile & Accessories,Chennai,Tamil Nadu,Easy Ship,4.8,20889070,2952,54332,2019-05-07,Healthy,4.94,4.31,96.7,20.3,No
+INSLR0045,Snapdeal Retail India,18F0VRB3ZANVJ,Mobile & Accessories,Pune,Maharashtra,FBA,4.8,7011801,4872,62569,2019-10-25,Healthy,13.68,2.11,97.2,4.0,No
+INSLR0046,Tata Cliq Sellers,15DN2ZZSRKPKS,Clothing & Fashion,Bhopal,Madhya Pradesh,FBM,2.9,46787377,2480,40315,2013-06-28,At Risk,6.07,4.24,88.8,8.8,Yes
+INSLR0047,Myntra Fashion Pvt Ltd,146LK5DGCWJHA,Electronics,Indore,Madhya Pradesh,FBA,4.3,46415267,2015,74858,2017-11-16,Healthy,4.69,4.31,99.1,17.5,Yes
+INSLR0048,Flipkart Wholesale,15S3POE33E7NX,Office Products,Varanasi,Uttar Pradesh,FBM,3.3,43403116,1294,15241,2019-11-19,Healthy,11.68,3.07,98.5,33.1,No
+INSLR0049,Paytm Mall Store,37OGSUBCJP59B,Beauty & Personal Care,Nashik,Maharashtra,FBM,4.2,19006246,3584,13821,2019-08-01,Healthy,1.97,0.15,89.1,35.8,Yes
+INSLR0050,Shopclues India,21CQW3D4HU9QL,Clothing & Fashion,Vasai,Maharashtra,Easy Ship,3.3,35964940,2179,27070,2016-10-09,Healthy,11.51,1.47,91.0,6.7,No
+INSLR0051,Pepperfry Home Store,32WYGK44S4XGJ,Pet Supplies,Lucknow,Uttar Pradesh,Easy Ship,4.2,7637719,2591,78423,2018-01-29,At Risk,2.3,1.05,92.9,26.6,Yes
+INSLR0052,Lenskart Online,20LIME8DL6TRX,Mobile & Accessories,Hyderabad,Telangana,FBM,3.1,20173762,4914,47704,2015-04-28,Healthy,12.9,2.58,99.4,13.9,Yes
+INSLR0053,Firstcry Baby Store,33KU4WGBFNFDI,Books,Bhopal,Madhya Pradesh,FBM,4.2,7293423,3834,18044,2017-10-11,Healthy,1.89,2.26,97.5,28.1,Yes
+INSLR0054,Mamaearth Direct,14PPXYB3XT7QJ,Sports & Fitness,Indore,Madhya Pradesh,FBA,4.3,44775562,1690,25103,2015-09-18,Critical,12.02,2.26,96.1,34.5,No
+INSLR0055,Boat Lifestyle Store,37PZODF62VUBR,Beauty & Personal Care,Ahmedabad,Gujarat,FBA,3.5,39738739,440,73802,2012-07-22,Healthy,8.43,3.65,98.7,35.5,No
+INSLR0056,Noise Official India,12GW7UQGMYWTZ,Books,Ludhiana,Punjab,FBM,4.7,26703596,4478,98988,2017-10-10,Healthy,4.58,0.93,88.6,21.8,Yes
+INSLR0057,Croma Retail Online,14H4IN9DL1BSX,Grocery & Gourmet,Lucknow,Uttar Pradesh,FBM,4.6,18599484,4867,31132,2014-07-03,At Risk,6.22,4.39,88.6,11.7,Yes
+INSLR0058,Poorvika Mobiles,29K7168M5K7WH,Beauty & Personal Care,Varanasi,Uttar Pradesh,FBM,3.3,4439579,1032,97832,2014-08-31,Healthy,6.89,3.79,89.9,16.6,Yes
+INSLR0059,Sangeetha Mobiles,26YSNSAZGDIXQ,Beauty & Personal Care,Kanpur,Uttar Pradesh,FBA,4.7,11452589,4451,79720,2012-06-04,At Risk,8.37,1.39,96.1,27.1,Yes
+INSLR0060,Jio Mart Sellers,108OUXJO776QH,Clothing & Fashion,Vadodara,Gujarat,Easy Ship,4.3,11001769,2831,44727,2021-12-08,Healthy,5.07,3.5,93.7,11.5,Yes
+INSLR0061,BigBasket Gourmet,3616XITAJMVOW,Home & Kitchen,Surat,Gujarat,FBM,3.8,38376057,3680,68947,2013-07-30,Healthy,2.51,3.65,94.3,33.8,Yes
+INSLR0062,Grofers Quick Commerce,117T6DS2W6JIT,Sports & Fitness,Ahmedabad,Gujarat,FBA,4.4,19823158,763,64092,2016-01-22,Healthy,5.67,2.2,93.2,2.1,Yes
+INSLR0063,PharmEasy Medical,181KEB83L9JBR,Sports & Fitness,Mumbai,Maharashtra,FBM,3.8,16868296,3559,91567,2019-11-27,At Risk,10.44,1.31,96.7,22.7,No
+INSLR0064,1mg Health Store,107EUY0ON1Y4O,Mobile & Accessories,Patna,Bihar,FBM,3.3,48578236,1351,77806,2019-03-19,Healthy,9.85,1.05,95.6,10.9,Yes
+INSLR0065,Healthkart Nutrition,37ZO4LX46AODO,Books,Faridabad,Haryana,FBA,3.9,25188990,4673,61055,2013-01-11,Healthy,0.86,1.86,98.1,20.9,No
+INSLR0066,Decathlon India Sports,37MN3FEQ4NUMI,Electronics,Patna,Bihar,FBM,3.4,38506686,1052,88900,2018-07-18,Healthy,5.15,0.53,95.1,12.1,No
+INSLR0067,Woodland Outdoors,16B3PJAQE591E,Beauty & Personal Care,Vasai,Maharashtra,FBM,3.9,13572347,3345,80909,2015-03-01,Healthy,7.27,3.62,91.2,10.0,No
+INSLR0068,Bata Footwear Online,13PM80Y05EGJC,Electronics,Nagpur,Maharashtra,Easy Ship,4.5,13154619,4599,59546,2015-05-09,Healthy,0.86,1.93,98.6,32.9,No
+INSLR0069,Fabindia Lifestyle,18WR5SLN62GDU,Home & Kitchen,Kolkata,West Bengal,Easy Ship,4.4,12329749,1012,8017,2022-07-06,Healthy,10.96,3.42,88.0,17.5,Yes
+INSLR0070,Manyavar Ethnic Wear,20030PVFNZH4B,Sports & Fitness,Thane,Maharashtra,FBM,3.9,48815544,335,18691,2018-01-02,Healthy,9.4,1.65,98.7,11.1,No
+INSLR0071,W for Woman Store,37VS3BVSSDHZP,Grocery & Gourmet,Faridabad,Haryana,FBM,3.4,29418560,1905,21299,2019-08-21,Healthy,2.76,2.8,92.7,23.4,No
+INSLR0072,Global Desi Fashion,292YD5MVNHXGS,Pet Supplies,Indore,Madhya Pradesh,FBA,3.1,3734704,2975,97746,2014-12-20,Healthy,7.44,3.64,95.8,3.6,No
+INSLR0073,Libas Online India,1608DIAPM70VJ,Mobile & Accessories,Meerut,Uttar Pradesh,FBA,3.7,29425001,4582,99174,2016-02-09,Healthy,2.42,0.96,89.7,30.3,Yes
+INSLR0074,Aurelia Ethnic Hub,110363NDWEBTQ,Sports & Fitness,Meerut,Uttar Pradesh,FBM,3.3,3926689,1512,7687,2022-01-24,Healthy,9.55,3.75,91.9,13.1,No
+INSLR0075,Kisah Fashion Store,27UPDJQQL5TZD,Grocery & Gourmet,Faridabad,Haryana,FBA,3.5,32825956,4837,44635,2018-12-10,Healthy,1.78,0.69,98.0,26.5,Yes

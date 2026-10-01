@@ -1,0 +1,67 @@
+table,column,change
+sellers,total_sales_reported_inr,added
+sellers,total_listings_reported,added
+sellers,listings_actual,added
+sellers,orders_actual,added
+sellers,revenue_actual_inr,added
+sellers,return_rate_actual_pct,added
+sellers,has_orders,added
+sellers,critical_but_high_rating,added
+sellers,healthy_but_high_risk,added
+sellers,total_sales_inr,removed / renamed
+sellers,total_listings,removed / renamed
+customers,total_orders_reported,added
+customers,lifetime_spend_reported_inr,added
+customers,is_prime_member,added
+customers,orders_actual,added
+customers,lifetime_spend_actual_inr,added
+customers,first_order_date,added
+customers,last_order_date,added
+customers,has_orders,added
+customers,account_created_after_first_order,added
+customers,account_created_clean,added
+customers,prime_member,removed / renamed
+customers,total_orders,removed / renamed
+customers,lifetime_spend_inr,removed / renamed
+products,review_count_reported,added
+products,margin_inr,added
+products,margin_pct,added
+products,negative_margin,added
+products,discount_pct_calc,added
+products,discount_pct_mismatch,added
+products,review_count_actual,added
+products,avg_review_rating,added
+products,seller_joined_after_launch,added
+products,review_count,removed / renamed
+orders,has_return_record,added
+orders,return_status,added
+orders,return_outcome,added
+orders,returned_status_no_record,added
+orders,is_returned,added
+orders,return_evidence,added
+orders,fulfilment_status,added
+orders,refund_amount_inr,added
+orders,is_cancelled,added
+orders,net_revenue_inr,added
+orders,discount_without_promo,added
+orders,promo_without_discount,added
+orders,shipping_type_clean,added
+orders,prime_delivery_mismatch,added
+orders,order_before_launch,added
+orders,ship_date_on_unshipped,added
+orders,delivery_date_on_in_transit,added
+orders,order_year,added
+orders,order_quarter,added
+orders,order_month,added
+orders,order_weekday,added
+orders,days_to_ship,added
+orders,days_to_deliver,added
+returns,days_from_order_to_return,added
+returns,days_since_delivery,added
+returns,request_before_delivery,added
+returns,outside_return_window,added
+returns,refund_pct_of_order,added
+returns,days_to_return,removed / renamed
+transactions,payment_conflict_type,added
+transactions,payment_conflict,added
+reviews,review_before_delivery,added

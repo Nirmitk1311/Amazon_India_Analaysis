@@ -1,0 +1,49 @@
+table,issue,rows_affected,action,severity
+transactions,Payment status contradicts order/return status,401,Flagged payment_conflict + payment_conflict_type (kept as-is; needs business reconciliation),High
+orders,Return records on orders whose status is 'Delivered' (status ≠ returns table),375,Kept raw status; added has_return_record / is_returned / return_outcome from returns table,High
+customers,total_orders / lifetime_spend_inr don't match the orders table (mean 41 vs 7 orders; corr ≈ 0),320,Recomputed orders_actual & lifetime_spend_actual_inr (non-cancelled); originals kept as *_reported,High
+transactions,Refund transactions (is_refund=1) with NULL linked_return_id,114,Attempted recovery via order_id join: 0 recoverable → left NULL (their orders have no return record),High
+orders,Orders with status 'Returned' but NO return record,106,Flagged returned_status_no_record; counted as returned with return_evidence='Status only'; refund unknown (0),High
+sellers,total_listings / total_sales_inr don't match products/orders tables (all 75 rows differ),75,"Recomputed listings_actual, orders_actual, revenue_actual_inr, return_rate_actual_pct; originals kept as *_reported",High
+orders,Promo code recorded but discount = 0,671,Flagged promo_without_discount,Medium
+returns,days_to_return is measured from ORDER date (not delivery); misleading against return_window_days,420,Renamed to days_from_order_to_return; added days_since_delivery,Medium
+transactions,Transactions linked to a return but is_refund = 0,375,"Kept; is_refund is the payment-side flag, return_status on returns is the business-side one",Medium
+orders,Discount given but no promo code,360,Flagged discount_without_promo,Medium
+orders,Order placed before product's launch_date,200,Flagged order_before_launch (dates kept),Medium
+orders,ship_date populated while status is Pending/Processing,192,Flagged ship_date_on_unshipped,Medium
+orders,"shipping_type = 'Out for Delivery' is an order status, not a shipping speed",180,Created shipping_type_clean with value 'Unspecified',Medium
+products,review_count is a listing figure (≠ rows in reviews); rating ≠ mean review rating,180,Kept both: review_count_reported/rating vs review_count_actual/avg_review_rating (reviews table is a sample),Medium
+orders,Non-Prime customers given 'Prime Free Delivery',168,Flagged prime_delivery_mismatch,Medium
+returns,Return requested after return_window_days (measured from delivery),159,Flagged outside_return_window,Medium
+products,discount_pct ≠ (1 - selling/MRP),150,Added discount_pct_calc; flagged discount_pct_mismatch,Medium
+returns,Return requested BEFORE the order was delivered,55,Flagged request_before_delivery,Medium
+customers,account_created is AFTER the customer's first order,38,Flagged; account_created_clean = first order date for these rows,Medium
+ALL,Dates stored as text (VARCHAR),9,Converted 9 columns to datetime; 0 unparseable values,Medium
+products,cost_price > selling_price (sold at a loss),9,Flagged negative_margin; margin_inr/margin_pct added,Medium
+sellers,account_health = Healthy but return_rate + defect_rate > 15%,5,Flagged healthy_but_high_risk,Medium
+orders,promo_applied is NULL,716,Filled with 'No Promo' (NULL means no promo used),Low
+reviews,Up to 5 reviews per single order (one order = one product),469,Flagged for review; kept,Low
+orders,delivery_date NULL,368,Legitimate: all on Cancelled/Pending/Processing orders (violations: 0); left NULL,Low
+customers,"Mobile has a space (+91 XXXXXXXXXX), fails +91XXXXXXXXXX pattern",320,Normalised to +91XXXXXXXXXX,Low
+reviews,Review dated before delivery,154,Flagged review_before_delivery,Low
+products,Seller joined AFTER the product's launch_date,30,Flagged seller_joined_after_launch,Low
+customers,Customers with no orders in the period,17,Flagged has_orders = 0 (kept; matters for conversion analysis),Low
+ALL,Yes/No text columns,11,Converted to 0/1 flags (SQL Server BIT),Low
+sellers,Sellers with zero orders in period,9,Flagged has_orders = 0,Low
+sellers,account_health = Critical but seller_rating > 4.5,1,Flagged,Low
+ALL,Leading/trailing whitespace in text,0,Trimmed (none found),Low
+orders,unit_price_inr IQR outliers (high-value electronics/mobiles),307,"Kept: legitimate values, not errors; segment by category in EDA",Info
+orders,order_total_inr IQR outliers (high-value electronics/mobiles),283,"Kept: legitimate values, not errors; segment by category in EDA",Info
+orders,Delivery time does not differ by shipping_type (Next Day ≈ Economy),0,Not a cleaning issue; carried into diagnostic analysis as a finding,Info
+returns,Refund > order total,0,None found,Info
+transactions,Credit/Debit card without bank_name,0,None found,Info
+transactions,UPI without upi_id,0,None found,Info
+transactions,amount_inr ≠ order_total_inr,0,"None found (amount is the order amount, not the refund amount)",Info
+customers,Gender values outside M/F,0,None found,Info
+customers,Pincode not 6 digits,0,None found,Info
+customers,Email missing '@',0,None found,Info
+products,selling_price > MRP,0,None found,Info
+products,weight_kg = 0 or > 50,0,None found (range 0.31–11.92),Info
+reviews,helpful_votes > total_votes,0,None found,Info
+reviews,Verified purchase on cancelled order,0,None found,Info
+reviews,Review dated before order,0,None found,Info
